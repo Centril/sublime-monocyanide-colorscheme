@@ -41,6 +41,12 @@ Adds scopes, support and/or improves styling for:
 * Method calls, bold
 * darker background: #191919
 
+## Sneak peak
+
+![image](/../screenshots/readme.md.png?raw=true "This readme.md file")
+
+![image](/../screenshots/groovy.png?raw=true "A .groovy file")
+
 ## Author
 
 **Mazdak Farrokhzad / Centril <twingoow@gmail.com>**
