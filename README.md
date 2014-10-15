@@ -4,7 +4,7 @@
 > more saturated colors, as well as boldness added for functions, classnames,
 > and a differentiated style for doc-block comments (e.g: javadocs).
 
-Companion to [sublime-monocyanide-theme](https://github.com/centril/sublime-monocyandide-theme).
+<!-- Companion to [sublime-monocyanide-theme](https://github.com/centril/sublime-monocyandide-theme). -->
 
 ## Getting Started
 
