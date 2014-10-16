@@ -62,3 +62,9 @@ original parts: Jon Schlinkert.
 [MIT License](LICENSE-MIT)
 
 [gfm]: https://help.github.com/articles/github-flavored-markdown#syntax-highlighting "GitHub Flavored Markdown"
+
+## Credits
+
++ [Markdown Extended](https://github.com/jonschlinkert/sublime-monokai-extended) by [Jon Schlinkert](https://github.com/jonschlinkert)
++ [Color Scheme Editor](https://github.com/bobef/ColorSchemeEditor) by [Borislav Peev](https://github.com/bobef)
++ [Scope Hunter](https://github.com/facelessuser/ScopeHunter) by [facelessuser](https://github.com/facelessuser)
