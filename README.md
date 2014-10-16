@@ -34,6 +34,7 @@ Then inside Sublime Text, go to `Preferences -> Color Scheme -> User -> Monocyan
 Adds scopes, support and/or improves styling for:
 
 * Keyword control: bold
+* Primitives are differently colored.
 * Comments are entirely desaturated.
 * Documentation comments: lighter than normal comments.
 * Documentation tags (@param, ...): bold

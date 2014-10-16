@@ -1174,13 +1174,6 @@
             }
         },
         {
-            "name": "Method call",
-            "scope": "meta.method-call",
-            "settings": {
-                "fontStyle": " bold"
-            }
-        },
-        {
             "name": "Documentation Tag",
             "scope": "meta.documentation.tag keyword.other.documentation",
             "settings": {
@@ -1204,6 +1197,21 @@
         {
             "name": "Keyword Control",
             "scope": "keyword.control",
+            "settings": {
+                "fontStyle": " bold"
+            }
+        },
+        {
+            "name": "Primitive",
+            "scope": "storage.type.return-type.primitive, storage.type.primitive",
+            "settings": {
+                "fontStyle": "",
+                "foreground": "#ffef64"
+            }
+        },
+        {
+            "name": "Method call",
+            "scope": "meta.function-call - punctuation - meta.function-call.arguments - variable",
             "settings": {
                 "fontStyle": " bold"
             }

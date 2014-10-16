@@ -1889,17 +1889,6 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Method call</string>
-			<key>scope</key>
-			<string>meta.method-call</string>
-			<key>settings</key>
-			<dict>
-				<key>fontStyle</key>
-				<string> bold</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
 			<string>Documentation Tag</string>
 			<key>scope</key>
 			<string>meta.documentation.tag keyword.other.documentation</string>
@@ -1936,6 +1925,30 @@
 			<string>Keyword Control</string>
 			<key>scope</key>
 			<string>keyword.control</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string> bold</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Primitive</string>
+			<key>scope</key>
+			<string>storage.type.return-type.primitive, storage.type.primitive</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#ffef64</string>
+				<key>fontStyle</key>
+				<string></string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Method call</string>
+			<key>scope</key>
+			<string>meta.function-call - punctuation - meta.function-call.arguments - variable</string>
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
