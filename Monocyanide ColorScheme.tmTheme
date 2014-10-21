@@ -651,7 +651,7 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string> italic</string>
+				<string>bold italic</string>
 				<key>foreground</key>
 				<string>#66d9ef</string>
 			</dict>
@@ -698,17 +698,6 @@
 			<dict>
 				<key>foreground</key>
 				<string>#ffffff</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>JSON String</string>
-			<key>scope</key>
-			<string>meta.structure.dictionary.json string.quoted.double.json</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#cfcfc2</string>
 			</dict>
 		</dict>
 		<dict>
@@ -1955,6 +1944,55 @@
 				<string> bold</string>
 			</dict>
 		</dict>
+		<dict>
+			<key>name</key>
+			<string>JSON: Dict</string>
+			<key>scope</key>
+			<string>punctuation.definition.dictionary.begin.json, punctuation.definition.dictionary.end.json</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string> bold</string>
+				<key>foreground</key>
+				<string>#aee837</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>JSON: KV-Separator</string>
+			<key>scope</key>
+			<string>punctuation.separator.dictionary.key-value.json, punctuation.separator.dictionary.pair.json</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#ff4083</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>JSON: Array</string>
+			<key>scope</key>
+			<string>punctuation.definition.array.begin.json, punctuation.definition.array.end.json</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string> bold</string>
+				<key>foreground</key>
+				<string>#66d9ef</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>JSON: String</string>
+			<key>scope</key>
+			<string>string.quoted.double.json</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#fff</string>
+			</dict>
+		</dict>
+
 	</array>
 	<key>uuid</key>
 	<string>1D07ACC0-832F-11E2-9E96-0800200C9A66</string>

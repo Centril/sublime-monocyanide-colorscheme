@@ -33,6 +33,7 @@ Then inside Sublime Text, go to `Preferences -> Color Scheme -> User -> Monocyan
 
 Adds scopes, support and/or improves styling for:
 
+* JSON, syntax highlighting added.
 * Keyword control: bold
 * Primitives are differently colored.
 * Comments are entirely desaturated.
@@ -44,9 +45,9 @@ Adds scopes, support and/or improves styling for:
 
 ## Sneak peak
 
-![image](/../screenshots/readme.md.png?raw=true "This readme.md file")
+![image](https://github.com/Centril/sublime-monocyanide-colorscheme/blob/screenshots/readme.md.png?raw=true "This readme.md file")
 
-![image](/../screenshots/groovy.png?raw=true "A .groovy file")
+![image](https://github.com/Centril/sublime-monocyanide-colorscheme/blob/screenshots/groovy.png?raw=true "A .groovy file")
 
 ## Author
 
@@ -60,7 +61,7 @@ Adds scopes, support and/or improves styling for:
 Copyright 2013 Mazdak Farrokhzad for the modified parts,
 original parts: Jon Schlinkert.
 
-[MIT License](LICENSE-MIT)
+[MIT License](LICENSE.md)
 
 [gfm]: https://help.github.com/articles/github-flavored-markdown#syntax-highlighting "GitHub Flavored Markdown"
 

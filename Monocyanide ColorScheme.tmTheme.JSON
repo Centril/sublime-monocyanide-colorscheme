@@ -399,7 +399,7 @@
             "name": "JS: Function",
             "scope": "storage.type.function.js",
             "settings": {
-                "fontStyle": " italic",
+                "fontStyle": "bold italic",
                 "foreground": "#66d9ef"
             }
         },
@@ -429,13 +429,6 @@
             "scope": "meta.brace.curly.js",
             "settings": {
                 "foreground": "#ffffff"
-            }
-        },
-        {
-            "name": "JSON String",
-            "scope": "meta.structure.dictionary.json string.quoted.double.json",
-            "settings": {
-                "foreground": "#cfcfc2"
             }
         },
         {
@@ -1214,6 +1207,36 @@
             "scope": "meta.function-call - punctuation - meta.function-call.arguments - variable",
             "settings": {
                 "fontStyle": " bold"
+            }
+        },
+        {
+            "name": "JSON: Dict",
+            "scope": "punctuation.definition.dictionary.begin.json, punctuation.definition.dictionary.end.json",
+            "settings": {
+                "fontStyle": " bold",
+                "foreground": "#aee837"
+            }
+        },
+        {
+            "name": "JSON: KV-Separator",
+            "scope": "punctuation.separator.dictionary.key-value.json, punctuation.separator.dictionary.pair.json",
+            "settings": {
+                "foreground": "#ff4083"
+            }
+        },
+        {
+            "name": "JSON: Array",
+            "scope": "punctuation.definition.array.begin.json, punctuation.definition.array.end.json",
+            "settings": {
+                "fontStyle": " bold",
+                "foreground": "#66d9ef"
+            }
+        },
+        {
+            "name": "JSON: String",
+            "scope": "string.quoted.double.json",
+            "settings": {
+                "foreground": "#fff"
             }
         }
     ],
