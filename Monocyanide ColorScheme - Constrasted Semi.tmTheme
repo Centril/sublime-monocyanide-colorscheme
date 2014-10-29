@@ -15,9 +15,9 @@
     //
 
     //
-    //  Monocyanide ColorScheme
-    //  Background   (rgb): 10,10,10
-    //  Background   (hex): 0a0a0a
+    //  Monocyanide ColorScheme - Constrasted Semi
+    //  Background   (rgb): 25,25,25
+    //  Background   (hex): 191919
     //
 -->
 <?xml version="1.0" encoding="UTF-8"?>
@@ -42,9 +42,9 @@
 		<string>#a6e22e</string>
 	</dict>
 	<key>name</key>
-	<string>Monocyanide ColorScheme</string>
+	<string>Monocyanide ColorScheme - Constrasted Semi</string>
 	<key>semanticClass</key>
-	<string>theme.dark.Monocyanide ColorScheme</string>
+	<string>theme.dark.Monocyanide ColorScheme - Constrasted Semi</string>
 	<key>settings</key>
 	<array>
 		<dict>
@@ -53,7 +53,7 @@
 				<key>activeGuide</key>
 				<string>#7fb11b</string>
 				<key>background</key>
-				<string>#0a0a0a</string>
+				<string>#191919</string>
 				<key>bracketContentsForeground</key>
 				<string>#f8f8f2a5</string>
 				<key>bracketContentsOptions</key>
