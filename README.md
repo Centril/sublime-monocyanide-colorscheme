@@ -58,7 +58,6 @@ Adds scopes, support and/or improves styling for:
 ![screenshot: groovy]
 > <div align="center">A groovy file.</div>
 
-
 ## Background variations
 
 [Monocyanide ColorScheme] comes in 5 flavors where the background of each is different. The variations that are available are:
@@ -145,8 +144,9 @@ This color scheme is based on **[Monokai Extended]** by [Jon Schlinkert] and has
 
 [grunt]: http://gruntjs.com/
 
-[screenshot: README.md]: https://github.com/Centril/sublime-monocyanide-colorscheme/blob/screenshots/readme.md.png?raw=true "This readme.md file"
+[screenshot: gruntfile.js]: https://github.com/Centril/sublime-monocyanide-colorscheme/blob/screenshots/gruntfile.js.png?raw=true "The gruntfile that builds the colorschemes."
 [screenshot: groovy]: https://github.com/Centril/sublime-monocyanide-colorscheme/blob/screenshots/groovy.png?raw=true "A .groovy file"
+[screenshot: bg-variations]: https://github.com/Centril/sublime-monocyanide-colorscheme/blob/screenshots/bg-variations.png?raw=true "Background variations"
 
 [GitGutter]: https://sublime.wbond.net/packages/GitGutter
 [SublimeLinter3]: https://github.com/SublimeLinter/SublimeLinter3
