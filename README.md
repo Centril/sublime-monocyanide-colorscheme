@@ -1,10 +1,10 @@
-# [sublime-monocyanide-colorscheme](https://github.com/centril/sublime-monocyanide-colorscheme)
+# [sublime-monocyanide-colorscheme]
 
-> Extends [sublime-monokai-extended](https://github.com/jonschlinkert/sublime-monokai-extended) with a darker background, and lighter but slightly
+> Extends [sublime-monokai-extended] with a darker background, and lighter but slightly
 > more saturated colors, as well as boldness added for functions, classnames,
 > and a differentiated style for doc-block comments (e.g: javadocs).
 
-<!-- Companion to [sublime-monocyanide-theme](https://github.com/centril/sublime-monocyandide-theme). -->
+Companion to [Cyanide].
 
 ## Getting Started
 
@@ -12,7 +12,7 @@
 
 #### Package Control
 
-If you already have [Package Control](http://wbond.net/sublime_packages/package_control/) installed in Sublime Text:
+If you already have [Package Control] installed in Sublime Text:
 
 * Select "Install Package" from the Command Palette: <kbd>Ctrl+Shift+P</kbd> on Windows and Linux or <kbd>⇧⌘P</kbd> on OS X)
 * Search for "**Monocyanide Colorscheme**" and click <kbd>enter</kbd>.
@@ -21,7 +21,7 @@ If you already have [Package Control](http://wbond.net/sublime_packages/package_
 
 Go to `Preferences -> Browse Packages`, and then either download and unzip this plugin into that directory, or:
 
-``` bash
+```shell
 git clone https://github.com/centril/sublime-monocyanide-colorscheme.git "sublime-monocyanide-colorscheme"
 ```
 
@@ -45,28 +45,47 @@ Adds scopes, support and/or improves styling for:
 
 ## Sneak peak
 
-![image](https://github.com/Centril/sublime-monocyanide-colorscheme/blob/screenshots/readme.md.png?raw=true "This readme.md file")
+![screenshot: README.md]
 
-![image](https://github.com/Centril/sublime-monocyanide-colorscheme/blob/screenshots/groovy.png?raw=true "A .groovy file")
+![screenshot: groovy]
 
 ## Author
 
-**Mazdak Farrokhzad / Centril <twingoow@gmail.com>**
+**Mazdak Farrokhzad / Centril [&lt;twingoow@gmail.com&gt;]**
 
-+ [http://twitter.com/CenoRIX](http://twitter.com/CenoRIX)
-+ [http://github.com/centril](http://github.com/centril)
-
++ [twitter]
++ [github]
 
 ## Copyright and license
-Copyright 2013 Mazdak Farrokhzad for the modified parts,
-original parts: Jon Schlinkert.
 
-[MIT License](LICENSE.md)
-
-[gfm]: https://help.github.com/articles/github-flavored-markdown#syntax-highlighting "GitHub Flavored Markdown"
+Copyright 2013 Mazdak Farrokhzad for the modified parts, original parts: [Jon Schlinkert]. Licensed under **[MIT License]**.
 
 ## Credits
 
-+ [Markdown Extended](https://github.com/jonschlinkert/sublime-monokai-extended) by [Jon Schlinkert](https://github.com/jonschlinkert)
-+ [Color Scheme Editor](https://github.com/bobef/ColorSchemeEditor) by [Borislav Peev](https://github.com/bobef)
-+ [Scope Hunter](https://github.com/facelessuser/ScopeHunter) by [facelessuser](https://github.com/facelessuser)
++ [Markdown Extended][sublime-monokai-extended] by [Jon Schlinkert]
++ [Color Scheme Editor] by [Borislav Peev]
++ [Scope Hunter] by [facelessuser]
+
+<!-- references -->
+
+[sublime-monocyanide-colorscheme]: https://github.com/centril/sublime-monocyanide-colorscheme
+[sublime-monokai-extended]: https://github.com/jonschlinkert/sublime-monokai-extended
+[Cyanide]: https://github.com/lefoy/cyanide-theme
+[Package Control]: http://wbond.net/sublime_packages/package_control/
+
+[screenshot: README.md]: https://github.com/Centril/sublime-monocyanide-colorscheme/blob/screenshots/readme.md.png?raw=true "This readme.md file"
+[screenshot: groovy]: https://github.com/Centril/sublime-monocyanide-colorscheme/blob/screenshots/groovy.png?raw=true "A .groovy file"
+
+[twitter]: http://twitter.com/CenoRIX
+[github]: http://github.com/centril
+[&lt;twingoow@gmail.com&gt;]: mailto:twingoow@gmail.com
+
+[MIT License]: LICENSE.md
+
+[Jon Schlinkert]: https://github.com/jonschlinkert
+[Color Scheme Editor]: https://github.com/bobef/ColorSchemeEditor)
+[Borislav Peev]: https://github.com/bobef
+[Scope Hunter]: https://github.com/facelessuser/ScopeHunter
+[facelessuser]: https://github.com/facelessuser
+
+<!-- references -->
