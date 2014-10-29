@@ -1,4 +1,5 @@
 Copyright (c) 2014 Centril / Mazdak Farrokhzad <twingoow@gmail.com>
+Copyright (c) 2014 Lefoy <me@lefoy.net>
 Copyright (c) 2013 Assemble
 
 Permission is hereby granted, free of charge, to any person
