@@ -1,0 +1,23 @@
+{
+  "name": "sublime-monocyanide-colorscheme",
+  "humanized": "Monocyanide ColorScheme",
+  "version": "1.2.1",
+  "devDependencies": {
+    "colors": "1.0.3",
+    "lodash": "~2.4.1",
+    "underscore.string": "~2.3.3",
+    "grunt": "~0.4.2",
+    "grunt-bump": "0.0.16",
+    "grunt-contrib-clean": "^0.6.0",
+    "grunt-contrib-copy": "^0.7.0",
+    "grunt-text-replace": "^0.3.12",
+    "grunt-verbosity": "^0.2.2",
+    "load-grunt-config": "*",
+    "load-grunt-tasks": "^0.6.0",
+    "matchdep": "^0.3.0",
+    "time-grunt": "^1.0.0"
+  },
+  "dependencies": {
+    "time-grunt": "*"
+  }
+}
