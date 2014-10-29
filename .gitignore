@@ -1,3 +1,6 @@
-*.sublime-*
-extras.json
-tmp
+.DS_Store
+thumbs.db
+.sublime-grunt.cache
+node_modules/
+*.todo
+*.todone
