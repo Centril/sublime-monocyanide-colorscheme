@@ -1,21 +1,28 @@
 {
   "name": "sublime-monocyanide-colorscheme",
   "humanized": "Monocyanide ColorScheme",
-  "version": "2.0.0",
+  "version": "2.0.1",
+  "license": "MIT",
+  "description": "Extends Monokai Extended with a darker background, and lighter but slightly more saturated colors, as well as boldness added for functions, classnames, and a differentiated style for doc-block comments (e.g: javadocs).",
+  "homepage": "https://github.com/Centril/sublime-monocyanide-colorscheme",
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/Centril/sublime-monocyanide-colorscheme.git"
+  },
   "devDependencies": {
     "colors": "1.0.3",
     "lodash": "~2.4.1",
     "underscore.string": "~2.3.3",
-    "grunt": "~0.4.2",
-    "grunt-bump": "0.0.16",
-    "grunt-contrib-clean": "^0.6.0",
-    "grunt-contrib-copy": "^0.7.0",
-    "grunt-text-replace": "^0.3.12",
+    "grunt": "~0.4.5",
+    "grunt-bump": "0.6.0",
+    "grunt-contrib-clean": "0.6.0",
+    "grunt-contrib-copy": "0.8.2",
+    "grunt-text-replace": "0.4.0",
     "grunt-verbosity": "^0.2.2",
     "load-grunt-config": "*",
-    "load-grunt-tasks": "^0.6.0",
-    "matchdep": "^0.3.0",
-    "time-grunt": "^1.0.0"
+    "load-grunt-tasks": "3.3.0",
+    "matchdep": "1.0.0",
+    "time-grunt": "1.2.2"
   },
   "dependencies": {
     "time-grunt": "*"
