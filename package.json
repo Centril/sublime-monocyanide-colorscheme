@@ -1,7 +1,7 @@
 {
   "name": "sublime-monocyanide-colorscheme",
   "humanized": "Monocyanide ColorScheme",
-  "version": "2.0.1",
+  "version": "3.0.0",
   "license": "MIT",
   "description": "Extends Monokai Extended with a darker background, and lighter but slightly more saturated colors, as well as boldness added for functions, classnames, and a differentiated style for doc-block comments (e.g: javadocs).",
   "homepage": "https://github.com/Centril/sublime-monocyanide-colorscheme",
